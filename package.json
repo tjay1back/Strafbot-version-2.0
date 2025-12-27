@@ -1,0 +1,21 @@
+{
+  "name": "discord-strafe-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot für RP-Server Strafrechner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": ["discord", "bot", "roleplay", "strafe"],
+  "author": "Your Name",
+  "license": "MIT"
+}

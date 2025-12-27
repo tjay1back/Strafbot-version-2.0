@@ -1,0 +1,30 @@
+{
+  "botToken": "",
+  "guildId": "",
+  "groqApiKey": "",
+  "channels": {
+    "logs": "",
+    "aiChat": ""
+  },
+  "botVersion": "1.0",
+  "botSettings": {
+    "prefix": "!",
+    "embedColor": "#ff6b6b",
+    "successColor": "#28a745",
+    "errorColor": "#dc3545",
+    "maxCrimesPerSelection": 10,
+    "sessionTimeout": 1800000,
+    "zahlungszeit": 14
+  },
+  "permissions": {
+    "allowedRoles": [],
+    "allowedUsers": [],
+    "restrictCommands": false
+  },
+  "logging": {
+    "enabled": true,
+    "logChannel": null,
+    "logCommands": true,
+    "logErrors": true
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "Vollgas_in_verkehrsberuhigter_Zone": {
+    "haft": 0,
+    "geld": 3000,
+    "paragraf": "§12 Abs.1"
+  },
+  "Fahren_ohne_Lizenz": {
+    "haft": 3,
+    "geld": 3000,
+    "paragraf": "§12 Abs.2"
+  },
+  "Gefährlicher_Eingriff_Straßenverkehr": {
+    "haft": 6,
+    "geld": 3000,
+    "paragraf": "§12 Abs.3"
+  },
+  "Falschparken": {
+    "haft": 0,
+    "geld": 750,
+    "paragraf": "§12 Abs.4"
+  },
+  "Fahren_abseits_der_Straße": {
+    "haft": 0,
+    "geld": 1500,
+    "paragraf": "§12 Abs.5"
+  },
+  "Fahren_unter_Einfluss": {
+    "haft": 6,
+    "geld": 3000,
+    "paragraf": "§12 Abs.6"
+  },
+  "Nicht_Mitführen_Verbandskasten": {
+    "haft": 0,
+    "geld": 500,
+    "paragraf": "§12 Abs.7"
+  },
+  "Nicht_Mitführen_Werkzeugkasten": {
+    "haft": 0,
+    "geld": 500,
+    "paragraf": "§12 Abs.8"
+  },
+  "Drogenbesitz": {
+    "haft": 6,
+    "geld": 3000,
+    "paragraf": "§13 Abs.1"
+  },
+  "Drogenhandel": {
+    "haft": 8,
+    "geld": 5000,
+    "paragraf": "§13 Abs.2"
+  },
+  "Drogenanbau_Herstellung": {
+    "haft": 8,
+    "geld": 5000,
+    "paragraf": "§13 Abs.3"
+  },
+  "Drogenkonsum": {
+    "haft": 3,
+    "geld": 3000,
+    "paragraf": "§13 Abs.4"
+  },
+  "Diebstahl_KFZ": {
+    "haft": 2,
+    "geld": 3000,
+    "paragraf": "§15 Abs.1"
+  },
+  "Raub": {
+    "haft": 10,
+    "geld": 3000,
+    "paragraf": "§15 Abs.2"
+  },
+  "Schwerer_Raub": {
+    "haft": 20,
+    "geld": 5000,
+    "paragraf": "§15 Abs.3"
+  },
+  "Betrug": {
+    "haft": 3,
+    "geld": 2500,
+    "paragraf": "§15 Abs.4"
+  },
+  "Bestechen_von_Staatsbeamten": {
+    "haft": 0,
+    "geld": 5000,
+    "paragraf": "§15 Abs.5"
+  },
+  "Erpressung": {
+    "haft": 3,
+    "geld": 2500,
+    "paragraf": "§15 Abs.6"
+  },
+  "Besitz_Staats_Fraktionseigentum": {
+    "haft": 0,
+    "geld": 10000,
+    "paragraf": "§15 Abs.7"
+  },
+  "Besitz_illegaler_Gegenstände": {
+    "haft": 6,
+    "geld": 3000,
+    "paragraf": "§15 Abs.8"
+  },
+  "Handel_illegaler_Gegenstände": {
+    "haft": 8,
+    "geld": 5000,
+    "paragraf": "§15 Abs.9"
+  },
+  "Erschleichen_von_Leistungen": {
+    "haft": 0,
+    "geld": 2000,
+    "paragraf": "§15 Abs.10"
+  },
+  "Raubüberfall": {
+    "haft": 10,
+    "geld": 3000,
+    "paragraf": "§15 Abs.11"
+  },
+  "Bewaffneter_Raubüberfall": {
+    "haft": 20,
+    "geld": 5000,
+    "paragraf": "§15 Abs.12"
+  },
+  "Illegales_Glücksspiel": {
+    "haft": 10,
+    "geld": 3000,
+    "paragraf": "§15 Abs.13"
+  },
+  "Werben_für_illegales_Glücksspiel": {
+    "haft": 2,
+    "geld": 1500,
+    "paragraf": "§15 Abs.14"
+  },
+  "Führen_Waffe_ohne_Lizenz": {
+    "haft": 2,
+    "geld": 1500,
+    "paragraf": "§16 Abs.1"
+  },
+  "Gezogene_Waffe_in_Öffentlichkeit": {
+    "haft": 0,
+    "geld": 1500,
+    "paragraf": "§16 Abs.2"
+  },
+  "Besitz_illegale_Waffe": {
+    "haft": 4,
+    "geld": 3000,
+    "paragraf": "§16 Abs.3"
+  },
+  "Unberechtigter_Waffengebrauch": {
+    "haft": 2,
+    "geld": 1500,
+    "paragraf": "§16 Abs.4"
+  },
+  "Waffenhandel": {
+    "haft": 6,
+    "geld": 3000,
+    "paragraf": "§16 Abs.5"
+  },
+  "Waffenherstellung": {
+    "haft": 6,
+    "geld": 3000,
+    "paragraf": "§16 Abs.6"
+  },
+  "Belästigung": {
+    "haft": 0,
+    "geld": 1000,
+    "paragraf": "§17 Abs.1"
+  },
+  "Freiheitsberaubung": {
+    "haft": 2,
+    "geld": 1000,
+    "paragraf": "§17 Abs.2"
+  },
+  "Geiselnahme": {
+    "haft": 4,
+    "geld": 3000,
+    "paragraf": "§17 Abs.3"
+  },
+  "Beleidigung": {
+    "haft": 0,
+    "geld": 1000,
+    "paragraf": "§17 Abs.4"
+  },
+  "Rufmord": {
+    "haft": 0,
+    "geld": 1000,
+    "paragraf": "§17 Abs.4"
+  },
+  "Drohung": {
+    "haft": 0,
+    "geld": 500,
+    "paragraf": "§17 Abs.5"
+  },
+  "Unterlassene_Hilfeleistung": {
+    "haft": 0,
+    "geld": 500,
+    "paragraf": "§17 Abs.6"
+  },
+  "Körperverletzung": {
+    "haft": 0,
+    "geld": 1000,
+    "paragraf": "§17 Abs.7"
+  },
+  "Totschlag": {
+    "haft": 5,
+    "geld": 2500,
+    "paragraf": "§17 Abs.8"
+  },
+  "Versuchter_Mord": {
+    "haft": 5,
+    "geld": 2500,
+    "paragraf": "§17 Abs.8"
+  },
+  "Mord": {
+    "haft": 10,
+    "geld": 5000,
+    "paragraf": "§17 Abs.9"
+  },
+  "Mord_mehrere_Fälle": {
+    "haft": 20,
+    "geld": 10000,
+    "paragraf": "§17 Abs.10"
+  },
+  "Umgehung_polizeilicher_Maßnahme": {
+    "haft": 0,
+    "geld": 250,
+    "paragraf": "§18 Abs.1"
+  },
+  "Widerstand_gegen_Vollstreckungsbeamte": {
+    "haft": 5,
+    "geld": 2000,
+    "paragraf": "§18 Abs.2"
+  },
+  "Behinderung_Beamter": {
+    "haft": 0,
+    "geld": 750,
+    "paragraf": "§18 Abs.3"
+  },
+  "Missachtung_polizeilicher_Maßnahmen": {
+    "haft": 2,
+    "geld": 750,
+    "paragraf": "§18 Abs.4"
+  },
+  "Behinderung_Beamter_im_Einsatz": {
+    "haft": 2,
+    "geld": 750,
+    "paragraf": "§18 Abs.5"
+  },
+  "Beleidigung_Beamter": {
+    "haft": 0,
+    "geld": 1000,
+    "paragraf": "§18 Abs.6"
+  },
+  "Vertuschung_Beweismaterial": {
+    "haft": 0,
+    "geld": 1000,
+    "paragraf": "§18 Abs.7"
+  },
+  "Betreten_Sperrzone": {
+    "haft": 3,
+    "geld": 1000,
+    "paragraf": "§19 Abs.1"
+  },
+  "Platzverbot_missachten": {
+    "haft": 3,
+    "geld": 1000,
+    "paragraf": "§19 Abs.1"
+  },
+  "Vermummungsverbot": {
+    "haft": 0,
+    "geld": 750,
+    "paragraf": "§19 Abs.2"
+  },
+  "Amtsanmaßung": {
+    "haft": 10,
+    "geld": 5000,
+    "paragraf": "§19 Abs.3"
+  },
+  "Missbrauch_Notruf": {
+    "haft": 0,
+    "geld": 1500,
+    "paragraf": "§19 Abs.4"
+  },
+  "Sachbeschädigung": {
+    "haft": 0,
+    "geld": 1000,
+    "paragraf": "§19 Abs.5"
+  },
+  "Aufforderung_zu_Straftaten": {
+    "haft": 0,
+    "geld": 1000,
+    "paragraf": "§19 Abs.6"
+  },
+  "Falsche_Informationen": {
+    "haft": 0,
+    "geld": 250,
+    "paragraf": "§19 Abs.7"
+  },
+  "Hausfriedensbruch": {
+    "haft": 0,
+    "geld": 500,
+    "paragraf": "§19 Abs.8"
+  },
+  "Falschaussage": {
+    "haft": 5,
+    "geld": 5000,
+    "paragraf": "§19 Abs.9"
+  },
+  "Gefängnisausbruch": {
+    "haft": 10,
+    "geld": 5000,
+    "paragraf": "§19 Abs.10"
+  },
+  "Schweres_Dienstvergehen": {
+    "haft": 5,
+    "geld": 5000,
+    "paragraf": "§19 Abs.11"
+  },
+  "Gefangenenbefreiung": {
+    "haft": 5,
+    "geld": 2500,
+    "paragraf": "§19 Abs.12"
+  },
+  "Störung_Szenario": {
+    "haft": 0,
+    "geld": 5000,
+    "paragraf": "§19 Abs.13"
+  },
+  "Tötung_Hund": {
+    "haft": 20,
+    "geld": 100000,
+    "paragraf": "§19 Abs.14"
+  },
+  "Gefährliche_Manöver": {
+    "haft": 8,
+    "geld": 5000,
+    "paragraf": "§1"
+  },
+  "Fliegen_ohne_Lizenz": {
+    "haft": 5,
+    "geld": 4000,
+    "paragraf": "§2"
+  },
+  "Landungen_außerhalb_Landebahn": {
+    "haft": 10,
+    "geld": 10000,
+    "paragraf": "§3"
+  },
+  "Fliegen_mit_Drogen_illegalen_Substanzen": {
+    "haft": 5,
+    "geld": 3000,
+    "paragraf": "§4"
+  },
+  "Fliegen_unter_Drogen_Alkohol_Einfluss": {
+    "haft": 8,
+    "geld": 5000,
+    "paragraf": "§5"
+  },
+  "Nicht_mitführen_Erste_Hilfe_Kasten": {
+    "haft": 0,
+    "geld": 1000,
+    "paragraf": "§6"
+  },
+  "Nicht_mitführen_Fallschirm": {
+    "haft": 3,
+    "geld": 2000,
+    "paragraf": "§7"
+  },
+  "Tieffliegen_unter_130_Meter": {
+    "haft": 2,
+    "geld": 500,
+    "paragraf": "§8"
+  },
+  "Kreisfliegen_über_Sperrzonen": {
+    "haft": 2,
+    "geld": 500,
+    "paragraf": "§9"
+  },
+  "Betreiben_Gewerbe_ohne_Lizenz": {
+    "haft": 0,
+    "geld": 5000,
+    "paragraf": "§14 Abs.1"
+  },
+  "Steuerhinterziehung": {
+    "haft": 15,
+    "geld": 15000,
+    "paragraf": "§14 Abs.2"
+  },
+    "Kein Kennzeichen": {
+        "haft": 0,
+        "geld": 1500,
+        "paragraft": "§12 Abs.9"
+    }
+}
